@@ -8,3 +8,4 @@ Project about structures and typedef in C.
 | --- | --- |
 | `dog.h` | Header file defining `struct dog` |
 | `1-init_dog.c` | `init_dog` - initializes a variable of type `struct dog` |
+| `2-print_dog.c` | `print_dog` - prints a `struct dog` |
