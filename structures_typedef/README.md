@@ -10,3 +10,4 @@ Project about structures and typedef in C.
 | `1-init_dog.c` | `init_dog` - initializes a variable of type `struct dog` |
 | `2-print_dog.c` | `print_dog` - prints a `struct dog` |
 | `4-new_dog.c` | `new_dog` - creates a new dog (copies name and owner) |
+| `5-free_dog.c` | `free_dog` - frees a dog |
